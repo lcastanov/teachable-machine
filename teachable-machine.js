@@ -1,3 +1,5 @@
+// Laura Castano Villa - Teachable Machine Assignment
+
 /*
  * 👋 Hello! This is an ml5.js example made and shared with ❤️.
  * Learn more about the ml5.js project: https://ml5js.org/
